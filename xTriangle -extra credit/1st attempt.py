@@ -9,12 +9,6 @@ def xTriangle():
             strX += 1
             print("*", end = "")
         print()
-        
-## OR ##
-
-    print("\nx Triangle -- Print a blank line first")
-    for i in range(intHeight + 1):
-        print("X" * i)
 
 xTriangle()
 
