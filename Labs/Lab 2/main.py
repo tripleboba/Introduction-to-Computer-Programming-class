@@ -9,7 +9,8 @@
 def main():
 
     #Greeing
-    print("Welcome To The Program!\n------------------------\n")
+    print("Welcome To The Program!"
+          "\n------------------------\n")
 
 
     print("Printing out numbers 0-9...")
