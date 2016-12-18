@@ -1,10 +1,8 @@
 # Project:      Lab 03 (TrinhAnhLab03Sec03.py)
 # Name:         Anh Trinh
 # Date:         01/20/2016
-# Description:  Program1 will calculate the cost of a coffee
+# Description:  Calculate the cost of a coffee
 #               shop's products
-#               Program2 will compute and prints a table of
-#               C and F temperatures every 10 degrees from 0C - 100C
 
 def coffeeShop():
 
