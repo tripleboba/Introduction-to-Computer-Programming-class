@@ -8,7 +8,7 @@ def main():
 
     # Greeting
     print("Welcome To The Program!"
-    "-----------------------")
+    "\n-----------------------")
 
     #Ask for user's inputs
     first = float(input("Enter the 1st number: "))
