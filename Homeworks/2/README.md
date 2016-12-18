@@ -18,7 +18,7 @@ Test Data:
 You need to develop some test data and put it into your comments in the program
 
 Here is an example-
-# Shovel $25.00 1 each 6lbs
-# Planter $45.00 2 each 11lbs
-# Broom $12.00 1 each 4lbs
-# Subtotal is $127.00, Shipping & Handling is $13.00, Tax is $11.90 and the Total is $151.90.
+Shovel $25.00 1 each 6lbs
+Planter $45.00 2 each 11lbs
+Broom $12.00 1 each 4lbs
+Subtotal is $127.00, Shipping & Handling is $13.00, Tax is $11.90 and the Total is $151.90.
