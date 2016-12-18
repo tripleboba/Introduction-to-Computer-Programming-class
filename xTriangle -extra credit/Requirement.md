@@ -2,11 +2,11 @@
 
 Create a program that prints out a triangle of X's. Such as...
 
-# X
-# XX
-# XXX
-# XXXX
-# XXXXX
+X_
+XX_
+XXX_
+XXXX_
+XXXXX_
 
 The "height" of the triangle (5 in the above case) will be enter first by the user and then you will display the triangle.
 
