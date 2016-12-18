@@ -1,6 +1,3 @@
-
-            ## ------- X TRIANGLE ------- ##
-
 def xTriangle():
 
     intHeight = int(input("Enter triangle's height: "))
