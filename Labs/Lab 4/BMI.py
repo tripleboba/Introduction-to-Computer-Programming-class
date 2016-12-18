@@ -7,7 +7,7 @@
 def BMI():
 
     print("Welcome to the BMI Calculating Program!"
-    "----------------------------------------")
+    "\n----------------------------------------")
 
     #Prompt the user for input
     intWeidth = int(input("Enter weight (in lbs):    "))
