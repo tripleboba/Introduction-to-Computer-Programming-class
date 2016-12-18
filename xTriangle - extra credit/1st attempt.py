@@ -7,7 +7,7 @@ def xTriangle():
         strX = 0
         while strX <= intRow:
             strX += 1
-            print("*", end = "")
+            print("X", end = "")
         print()
 
 xTriangle()
