@@ -1,0 +1,6 @@
+1 Milk
+2 Coffee
+3 Tea
+4 Ice Cream
+5 Ralph Lauren
+6 Audi

@@ -1,0 +1,6 @@
+Dragon 4
+Dog 9
+Bear 8
+Woof 1
+Bunny 5
+Sheep 2
