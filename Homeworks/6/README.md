@@ -10,7 +10,8 @@ Report 4 - Write out to a file all the data about the families and add a field t
 
 When you import the data from the input file you will need to put the data into lists and then place those lists into a master list. That master list will hold all the data from the original input file (and more). When processing any data for the above reports you need to pull it from the master list not from the other lists or the input file. There will be six buttons. One to import the input file and the others to generate the 4 reports, and an exit button. Use functions for this homework.
 
-Here is the input filePreview the documentView in a new window. For the purposes of your code you can anticipate that any input file you will process will not have more than 15 entries and that for Report 2, in the window, the families that fall above the average income will not exceed 10. None of the interaction with the user should take place in the Python Shell.
+Here is the input file([familySurveyData.txt](https://github.com/phganh/CSC110---SCC/files/1269643/familySurveyData.txt)
+). For the purposes of your code you can anticipate that any input file you will process will not have more than 15 entries and that for Report 2, in the window, the families that fall above the average income will not exceed 10. None of the interaction with the user should take place in the Python Shell.
 
 You will submit 4 files:
 
@@ -21,3 +22,7 @@ Report 1: lastname_firstname_report01.txt
 Report 4: lastname_firstname_report04.txt
 
 ![povertyguidelines](https://user-images.githubusercontent.com/17074372/29961394-e67a18c0-8ed5-11e7-914e-6bf161030f4e.png)
+
+![a](https://user-images.githubusercontent.com/17074372/29962003-dc14740a-8ed7-11e7-9022-6b999e7e6dbd.PNG)
+
+
