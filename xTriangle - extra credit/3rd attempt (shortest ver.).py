@@ -1,3 +1,5 @@
+# fixing the problem in 2nd attempt - extra blank line at 1st
+
 def xTriangle():
 
     intHeight = int(input("Enter triangle's height: "))
