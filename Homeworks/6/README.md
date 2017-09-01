@@ -19,3 +19,5 @@ Your code (both py and pdf)
 Report 1: lastname_firstname_report01.txt
 
 Report 4: lastname_firstname_report04.txt
+
+![povertyguidelines](https://user-images.githubusercontent.com/17074372/29961394-e67a18c0-8ed5-11e7-914e-6bf161030f4e.png)
