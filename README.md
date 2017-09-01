@@ -1,3 +1,4 @@
-# CSC110-SCC
-# Quarter: Winter 2016
-# Instructor: Andy McCone
+## Course:      CSC 110 - Seattle Central College
+## Language:    Python
+## Quarter:     Winter 2016
+## Instructor:  Andy McCone
