@@ -1,7 +1,7 @@
 def ranking():
 
     #Open the dog.txt file
-    inFile = open("dog.txt","r")
+    inFile = open("dogs.txt","r")
 
     intLargestNum = 9 #Lowest rank in the file: 9th
     strBreed = ""
