@@ -11,3 +11,5 @@ This course is an introduction to Computer Programming. You will learn the gener
 
 
 ( Working w/ IDLE )
+
+If you have any better ideas or code lines, please share with me. I'm absolutely thrilled to see it.
