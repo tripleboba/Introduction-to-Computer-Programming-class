@@ -6,4 +6,7 @@ From the main() function you must call a dice() function to "build" the dice. To
 
 ![1](https://user-images.githubusercontent.com/17074372/32402650-0e32a408-c0ff-11e7-9ef8-375a213dbb4a.PNG)
 
-Call the dot() function 5 times from the dice() function rather than drawing 5 dots inside the dice() function. 
+Call the dot() function 5 times from the dice() function rather than drawing 5 dots inside the dice() function.
+
+
+![2](https://user-images.githubusercontent.com/17074372/32402664-8fb37db8-c0ff-11e7-9f6a-c04a15cb12ea.PNG)
