@@ -64,6 +64,3 @@ def main():
     setBar(50,50,150,360,win)
 
 main()
-
-
-
