@@ -11,3 +11,12 @@ Each bar will be a different color, the score will appear inside at the end of t
 There will a scale at the bottom of 0-100.
 
 ![1](https://user-images.githubusercontent.com/17074372/32402875-b693fbe8-c103-11e7-81cd-0e9b8b114668.PNG)
+
+
+##### ------------------------------------------- RESULT -------------------------------------------
+
+##### WHEN TYPING FILE NAME: DO NOT INCLUDE THE .TXT! I already put + .txt into the code! Just type the file's name only
+
+![1](https://user-images.githubusercontent.com/17074372/32402978-23e4da6c-c106-11e7-81a3-eae97239ec2b.PNG)
+
+
