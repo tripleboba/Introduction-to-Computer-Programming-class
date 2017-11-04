@@ -14,7 +14,20 @@ Create window/program that takes two user entered numbers, adds them up and disp
 
 #### ---------------------------------------------------- RESULTS ----------------------------------------------------
 
-!!!!!!: unable to set setStairs function displays different colors for 3 rectangles
+##### Discussion 8.1
+
+! unable to set setStairs function displays different colors for 3 rectangles
 
 ![1](https://user-images.githubusercontent.com/17074372/32401710-074c65b6-c0eb-11e7-89de-236100b9003f.PNG)
 
+
+
+##### Discussion 8.3
+
+Brian's version:   + take any inputs from user (string, number, characters) without crashing
+                   + invalid input (not a number) -> the input box will turn red when click Add button -> previous result will be cleared
+                   
+
+![1](https://user-images.githubusercontent.com/17074372/32402587-3238bdca-c0fe-11e7-8f8a-0e129d617083.PNG)
+![2](https://user-images.githubusercontent.com/17074372/32402588-3247e9da-c0fe-11e7-874a-88b50c60a75e.PNG)
+![3](https://user-images.githubusercontent.com/17074372/32402586-3229bb54-c0fe-11e7-8cbf-c4cc5359d985.PNG)
